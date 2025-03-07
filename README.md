@@ -22,15 +22,12 @@ I have hands-on experience with the following tools and technologies at various 
 </br>
 
 <p align="center">
-  <b>Contact me:</b></br>
-  <a href="withire32@kakao.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail"/>
-  </a>
-  <a href="https://012vision.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%EC%A7%84%EC%84%A0-%EC%9D%B4-308193269" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <b>Contact me:</b> withire32@kakao.com
 </p>
 
+</br>
+<p align="center">
+  <a href="https://solved.ac/012vision">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=012vision" alt="Solved.ac Profile">
+  </a>
+</p>

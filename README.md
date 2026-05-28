@@ -13,9 +13,9 @@ I have hands-on experience with the following tools and technologies at various 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,ros,markdown,firebase,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=github,ros,docker" />
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,eclipse,tensorflow,gitlab,blender,golang&theme=dark"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,eclipse&theme=dark"/>
   </a>
 </p>
     
